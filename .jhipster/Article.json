@@ -9,7 +9,7 @@
         },
         {
             "fieldName": "quantity",
-            "fieldType": "String"
+            "fieldType": "Integer"
         }
     ],
     "changelogDate": "20180830095033",
